@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I’m Lee 👋
 
-<!--
-**leehowardx/leehowardx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer building fast, simple, reliable websites.
 
-Here are some ideas to get you started:
+## Current Focus
+- Responsive web design
+- Clean, user-friendly UI
+- Interactive JavaScript features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Business Landing Pages** – Mobile-friendly templates
+- **Portfolio Sites** – Simple, polished layouts
+- **Contact Forms** – Lightweight JS validation
+
+## Contact
+- X: [@leegibsonhoward](https://x.com/leegibsonhoward)
+- Email: leegibsonhoward@gmail.com
