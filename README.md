@@ -1,4 +1,4 @@
-## Hi, I'm Lee 👋
+<h2 style="border-bottom: none;">Hi, I'm Lee! 👋🏽</h2>
 
 > Builder of Things
 
