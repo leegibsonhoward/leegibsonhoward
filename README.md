@@ -1,4 +1,4 @@
-<h2 style="border-bottom: none;">Hi, I'm Lee! 👋🏽</h2>
+<h3 style="font-size: 30;">Hi, I'm Lee! 👋🏽</h3>
 
 > Builder of Things
 
