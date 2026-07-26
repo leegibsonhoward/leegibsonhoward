@@ -1,17 +1,10 @@
-# Hi, I’m Lee 👋
+# Hi, I'm Lee 👋
 
-Web developer building fast, simple, reliable websites.
+## Builder of Things
 
-## Current Focus
-- Responsive web design
-- Clean, user-friendly UI
-- Interactive JavaScript features
+### What you'll find here
 
-## Projects
-- **Business Landing Pages** – Mobile-friendly templates
-- **Portfolio Sites** – Simple, polished layouts
-- **Contact Forms** – Lightweight JS validation
-
-## Contact
-- X: [@leegibsonhoward](https://x.com/leegibsonhoward)
-- Email: leegibsonhoward@gmail.com
+- 💻 Software
+- ⚙️ Systems
+- 🛠️ Tools
+- 🧪 Experiments
