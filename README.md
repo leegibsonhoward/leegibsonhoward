@@ -1,4 +1,4 @@
-### Hi, I'm Lee 👋
+## Hi, I'm Lee 👋
 
 > Builder of Things
 
