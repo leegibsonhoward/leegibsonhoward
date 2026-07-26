@@ -9,4 +9,4 @@ What you'll find here…
 - 🛠️ Tools
 - 🧪 Experiments
 
-*A collection of things I've built, explored, and experimented with.*
+*A collection of things I'm building, exploring, and experimenting with.*
